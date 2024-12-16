@@ -44,6 +44,21 @@ The **Contact List Page** serves as the central hub for managing all essential c
 The app provides an intuitive interface with clear options to manage contacts effectively. Users can add, edit, and call contacts seamlessly.
 
 ### Installation
-1. Clone the repository from GitHub.
-2. Open the project in Android Studio.
-3. Build and run the app on an Android device or emulator.
+To install and run the **Contact List App**, follow the steps below:
+
+1. **Clone the Repository**  
+   Clone the repository from GitHub using the following command:
+   ```bash
+   git clone https://github.com/sajitheranda/contact_list_app.git
+
+2. **Open the Project in Android Studio**
+   Launch Android Studio.
+   Select Open an existing project.
+   
+3. Navigate to the cloned repository folder and open the project.
+   Install Dependencies
+   Ensure that all necessary dependencies are installed. If required, sync the project with Gradle files by selecting Sync Now in Android Studio.
+
+4. Run the App
+   Connect your Android device via USB or use an Android Emulator.
+   Click on the Run button (green triangle) in Android Studio to build and launch the app.
