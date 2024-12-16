@@ -19,14 +19,14 @@ The **Contact List App** is an Android application that simplifies the managemen
 The **Contact List Page** serves as the central hub for managing all essential contacts. It provides a structured view of contact details, enabling users to access critical information effortlessly.
 
 #### Key Functionalities
-- **Call a Contact:** Users can directly call any contact listed in the app with a single tap.  
-  ![Figure 9: Call a Person in Contact List](#)
+- **Call a Contact:** Users can directly call any contact listed in the app with a single tap.
+- **Add New Contact:** Users can add new contacts by entering details such as name, phone number, and description.
+- **Edit Contact:** The app allows users to modify the details of existing contacts for better organization.
 
-- **Add New Contact:** Users can add new contacts by entering details such as name, phone number, and description.  
-  ![Figure 10: Add New Contact](#)
-
-- **Edit Contact:** The app allows users to modify the details of existing contacts for better organization.  
-  ![Figure 11: Edit Contact](#)
+### Visual Representation
+| <img src="https://github.com/user-attachments/assets/74490251-1951-4a63-996d-c99e6e2dc318" alt="Screenshot 1" width="300" /> | <img src="https://github.com/user-attachments/assets/73d18188-f0ff-414b-a014-a55703dc8600" alt="Screenshot 2" width="300" /> | <img src="https://github.com/user-attachments/assets/99794fc3-823b-4344-9209-f39377230a73" alt="Screenshot 3" width="300" /> |
+|:--:|:--:|:--:|
+| **Figure 9:** Call a Person in Contact List | **Figure 10:** Add New Contact | **Figure 11:** Edit Contact |
 
 ## Tech Stack
 - **Android**: Core framework for building the application.
